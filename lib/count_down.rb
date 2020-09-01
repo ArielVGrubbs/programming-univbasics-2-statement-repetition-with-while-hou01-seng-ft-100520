@@ -5,6 +5,4 @@ while countdown_number > 0 do
   countdown_number -= 1
 end
 
-while  do
-  puts "Happy New Year!"
-end
+puts "Happy New Year!"
